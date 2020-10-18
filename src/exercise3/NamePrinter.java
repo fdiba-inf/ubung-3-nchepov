@@ -12,4 +12,8 @@ public class NamePrinter{
       System.out.println("* " + letter + " *");
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
