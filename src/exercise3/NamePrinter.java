@@ -13,7 +13,11 @@ public class NamePrinter{
     }
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
 =======
 }
 >>>>>>> origin/master
